@@ -18,6 +18,8 @@ It essentially contains the Introduction to Python Topics as follows:
 14. while Loops
 15. range()
 16. List Comprehension
+17. Functions
+18. Lambda Expressions
 
 
 
