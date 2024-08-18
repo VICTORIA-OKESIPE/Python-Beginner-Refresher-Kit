@@ -1,4 +1,4 @@
-hhhhhggr# Python-Beginner-Refresher-Kit
+hhggr# Python-Beginner-Refresher-Kit
 A notebook to easily refresh Python basics or get started with using Python.
 
 It essentially contains the Introduction to Python Topics as follows:
