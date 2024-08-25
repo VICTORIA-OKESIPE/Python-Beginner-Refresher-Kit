@@ -21,4 +21,3 @@ It essentially contains the Introduction to Python Topics as follows:
 17. Functions
 18. Lambda Expressions
 
-
