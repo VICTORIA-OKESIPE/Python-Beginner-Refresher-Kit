@@ -1,4 +1,4 @@
-ijjjj# Python-Beginner-Refresher-Kithh
+jj# Python-Beginner-Refresher-Kithh
 A notebook to easily refresh Python basics or get started with using Python.
 
 It essentially contains the Introduction to Python Topics as follows:
